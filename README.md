@@ -41,13 +41,13 @@ All you need is a modern web browser, such as:
 
 1.  **Clone the Repository (or Download the ZIP)**
     ```sh
-    git clone [https://github.com/your-username/your-username.github.io.git](https://github.com/your-username/your-username.github.io.git)
+    git clone [https://github.com/yugpatelank8-eng/yugpatelank8-eng.github.io.git]
     ```
     Alternatively, you can click the `Code` button on the repository page and select `Download ZIP`.
 
 2.  **Navigate to the Project Directory**
     ```sh
-    cd your-username.github.io
+    cd yugpatelnk8-eng.github.io
     ```
 3.  **Open the HTML File**
     Simply open the `index.html` file directly in your web browser. You can do this by double-clicking the file in your file explorer.
